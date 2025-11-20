@@ -1,0 +1,1 @@
+path_db = 'db/todo.db'
